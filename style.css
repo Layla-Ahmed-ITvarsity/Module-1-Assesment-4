@@ -1,0 +1,12 @@
+r:hover{
+    background-color: peachpuff;
+}
+
+table{
+    font-family: Helvetica, monospace;
+    border-collapse: collapse;
+    background-color: papayawhip;
+    color: darkgrey;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EACDA7
